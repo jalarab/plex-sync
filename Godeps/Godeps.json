@@ -1,0 +1,27 @@
+{
+	"ImportPath": "github.com/jacobwgillespie/plex-sync",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gosuri/uilive",
+			"Rev": "efb88ccd059957c48f24f9d351d33a0eb00ede41"
+		},
+		{
+			"ImportPath": "github.com/gosuri/uiprogress",
+			"Rev": "a9f819bfc744fe70043abcc5a6cd0137a678e3d8"
+		},
+		{
+			"ImportPath": "github.com/gosuri/uiprogress/util/strutil",
+			"Rev": "a9f819bfc744fe70043abcc5a6cd0137a678e3d8"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "56b76bdf51f7708750eac80fa38b952bb9f32639"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "a646d33e2ee3172a661fc09bca23bb4889a41bc8"
+		}
+	]
+}
